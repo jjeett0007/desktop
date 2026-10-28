@@ -19,7 +19,6 @@ electron.VC.db
 plugins/
 yarn-error.log
 .opt-in
-.env
 .awcache/
 AGREEMENT
 license_en.txt
@@ -31,3 +30,4 @@ license_en.txt
 !.yarn/sdks
 !.yarn/versions
 chromedriver.log
+config.bat
