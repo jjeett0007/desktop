@@ -31,3 +31,4 @@ license_en.txt
 !.yarn/versions
 chromedriver.log
 config.bat
+.env
